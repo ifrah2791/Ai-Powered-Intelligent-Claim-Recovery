@@ -106,7 +106,7 @@ Project: **AI-Powered Intelligent Claim Recovery Workflow**
 
 ## License
 
-Apache 2.0 License
+Apache-2.0 License
 
 ## Acknowledgements
 
